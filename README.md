@@ -1,7 +1,11 @@
 # CNC-Computer-Numerical-Code
 A repository for CNC Computer Numerical Control
 
-See SainSmart 3018 PROVer Manual and docmentation
+CNC is a language to control machining equipment, with drill bits, milling bits, etc.
+
+Work with machinery, machining, and lathes to mill and make wooden or metal goods.
+
+See SainSmart 3018 PROVer Manual and documentation
 
 https://docs.sainsmart.com/article/x6sr565m5g-3018-prover
 
